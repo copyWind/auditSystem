@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="561f211f-ac6b-4e20-a3a4-11345069227d" name="Default Changelist" comment="审核系统2">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audit/src/main/java/com/lovo/audit/entity/hjp/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/audit/src/main/java/com/lovo/audit/entity/hjp/UserEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PATH_TO_GIT" value="F:\JAVA\git\cmd\git.exe" />
+    <option name="PATH_TO_GIT" value="D:\Program Files\Git\cmd\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -62,19 +61,19 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.lovo.audit.config" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lovo.audit" />
-      <recent name="com.lovo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspaceIdea\auditSystem\audit\src\main\java\com\lovo\audit\websocket" />
       <recent name="D:\workspaceIdea\auditSystem\audit\src\main\java\com\lovo\audit\service\impl" />
       <recent name="D:\workspaceIdea\auditSystem\audit\src\main\java\com\lovo\audit\service" />
       <recent name="D:\workspaceIdea\auditSystem\audit\src\main\java\com\lovo\audit\send" />
       <recent name="D:\workspaceIdea\auditSystem\audit\src\main\java\com\lovo\audit\get" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lovo.audit" />
+      <recent name="com.lovo" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lovo.audit.config" />
     </key>
   </component>
   <component name="RunManager">
@@ -113,6 +112,10 @@
       <workItem from="1578634138883" duration="6335000" />
       <workItem from="1578879145827" duration="2544000" />
       <workItem from="1578883579105" duration="190000" />
+      <workItem from="1578898946415" duration="1006000" />
+      <workItem from="1578900614463" duration="174000" />
+      <workItem from="1578900893677" duration="736000" />
+      <workItem from="1578901935260" duration="292000" />
     </task>
     <task id="LOCAL-00001" summary="审核系统1">
       <created>1578554560319</created>
@@ -156,18 +159,18 @@
     </state>
     <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578881831634" />
     <state x="318" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578883850820" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1578554473991">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1578894442255">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578554473991" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578894442255" />
     <state x="546" y="255" key="Github.ShareDialog" timestamp="1578554592819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="546" y="255" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1578554592819" />
-    <state x="207" y="7" key="SettingsEditor" timestamp="1578883878718">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1578901278126">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578880776924" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578901278126" />
     <state x="207" y="7" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578883878718" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1578881746672">
       <screen x="0" y="0" width="1366" height="728" />
@@ -177,6 +180,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="449" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1578883589820" />
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578896772470">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1578896772470" />
     <state x="57" y="59" key="new project wizard" timestamp="1578548977331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
